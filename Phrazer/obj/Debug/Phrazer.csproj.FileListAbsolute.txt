@@ -1,0 +1,9 @@
+C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\bin\Debug\Phrazer.dll
+C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\bin\Debug\Phrazer.pdb
+C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\obj\Debug\Phrazer.dll
+C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\obj\Debug\Phrazer.pdb
+C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\obj\Debug\Phrazer.csprojResolveAssemblyReference.cache
