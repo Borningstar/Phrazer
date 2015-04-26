@@ -7,3 +7,12 @@ C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\obj\Debug\Phrazer.dll
 C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\obj\Debug\Phrazer.pdb
 C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\obj\Debug\Phrazer.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\bin\Debug\System.Net.Http.dll
+C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\bin\Debug\System.Net.Http.xml
+C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\bin\Debug\System.Net.Http.Primitives.xml

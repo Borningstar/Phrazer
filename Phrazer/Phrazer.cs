@@ -1,7 +1,8 @@
 ﻿using System;
 using Xamarin.Forms;
 using System.Diagnostics;
-using System.Collections.Generic;
+using System.Threading.Tasks;
+using System.Net.Http;
 
 namespace Phrazer
 {
@@ -11,9 +12,23 @@ namespace Phrazer
 		{
 
 			MainPage = new MasterPage ();
+
+			RunAsync ();
 					
 		}
-			
+
+		static async Task RunAsync()
+		{
+			using (var httpClient = new HttpClient()) {
+				httpClient.BaseAddress = new Uri ("http://106.185.52.74:8888/");
+				HttpResponseMessage response = await httpClient.GetAsync("phrases/insultpraise");
+				if (response.IsSuccessStatusCode) {
+					string json = await response.Content.ReadAsStringAsync ();
+					Debug.WriteLine (json);
+				} 
+			}
+		}
+
 		protected override void OnStart ()
 		{
 			// Handle when your app starts

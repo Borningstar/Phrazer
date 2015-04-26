@@ -1,15 +1,16 @@
 C:\Users\Ben\Documents\Projects\Phrazer\Droid\bin\Debug\Phrazer.Droid.dll
-C:\Users\Ben\Documents\Projects\Phrazer\packages\Xamarin.Forms.1.3.1.6296\lib\MonoAndroid10\FormsViewGroup.dll
+C:\Users\Ben\Documents\Projects\Phrazer\packages\Xamarin.Forms.1.4.2.6355\lib\MonoAndroid10\FormsViewGroup.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v5.0\Mono.Android.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\mscorlib.dll
 C:\Users\Ben\Documents\Projects\Phrazer\Phrazer\bin\Debug\Phrazer.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Core.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Xml.dll
-C:\Users\Ben\Documents\Projects\Phrazer\packages\Xamarin.Android.Support.v4.19.1.0\lib\MonoAndroid10\Xamarin.Android.Support.v4.dll
-C:\Users\Ben\Documents\Projects\Phrazer\packages\Xamarin.Forms.1.3.1.6296\lib\MonoAndroid10\Xamarin.Forms.Core.dll
-C:\Users\Ben\Documents\Projects\Phrazer\packages\Xamarin.Forms.1.3.1.6296\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll
-C:\Users\Ben\Documents\Projects\Phrazer\packages\Xamarin.Forms.1.3.1.6296\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll
+C:\Users\Ben\Documents\Projects\Phrazer\packages\Xamarin.Android.Support.v4.22.0.0.0\lib\MonoAndroid10\Xamarin.Android.Support.v4.dll
+C:\Users\Ben\Documents\Projects\Phrazer\packages\Xamarin.Forms.1.4.2.6355\lib\MonoAndroid10\Xamarin.Forms.Core.dll
+C:\Users\Ben\Documents\Projects\Phrazer\packages\Xamarin.Forms.1.4.2.6355\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll
+C:\Users\Ben\Documents\Projects\Phrazer\packages\Xamarin.Forms.1.4.2.6355\lib\MonoAndroid10\Xamarin.Forms.Platform.dll
+C:\Users\Ben\Documents\Projects\Phrazer\packages\Xamarin.Forms.1.4.2.6355\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Collections.Concurrent.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Collections.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ComponentModel.Annotations.dll
@@ -59,8 +60,8 @@ C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Xml.ReaderWriter.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Xml.XDocument.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Xml.XmlSerializer.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Runtime.Serialization.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Net.Http.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Runtime.Serialization.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.ComponentModel.DataAnnotations.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.ComponentModel.Composition.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Numerics.dll

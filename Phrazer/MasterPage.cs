@@ -1,8 +1,5 @@
-﻿using System;
-
-using Xamarin.Forms;
+﻿using Xamarin.Forms;
 using System.Collections.Generic;
-using System.Diagnostics;
 
 namespace Phrazer
 {
@@ -75,8 +72,7 @@ namespace Phrazer
 					
 				this.IsPresented = false;
 			};
-				
-			// Initialize the ListView selection.
+
 			listView.SelectedItem = phrases[0];
 
 		}

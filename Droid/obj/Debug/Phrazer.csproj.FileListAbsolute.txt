@@ -23,3 +23,4 @@ C:\Users\Ben\Documents\Projects\Phrazer\Droid\obj\Debug\res\drawable-xhdpi\icon.
 C:\Users\Ben\Documents\Projects\Phrazer\Droid\obj\Debug\res\drawable-xxhdpi\icon.png
 C:\Users\Ben\Documents\Projects\Phrazer\Droid\obj\Debug\R.cs.flag
 C:\Users\Ben\Documents\Projects\Phrazer\Droid\obj\Debug\uploadflags.txt
+C:\Users\Ben\Documents\Projects\Phrazer\Droid\bin\Debug\Xamarin.Forms.Platform.dll
