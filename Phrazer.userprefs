@@ -1,11 +1,11 @@
-﻿<Properties StartupItem="Droid\Phrazer.Droid.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (KitKat)" />
+﻿<Properties StartupItem="Droid\Phrazer.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.Nexus 5 (KitKat)" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Phrazer\Phrazer.cs">
     <Files>
-      <File FileName="Droid\MainActivity.cs" Line="2" Column="1" />
-      <File FileName="Phrazer\Phrazer.cs" Line="19" Column="46" />
+      <File FileName="Phrazer\Phrazer.cs" Line="56" Column="4" />
       <File FileName="Phrazer\Phrase.cs" Line="6" Column="21" />
       <File FileName="Phrazer\Phrases.cs" Line="215" Column="59" />
+      <File FileName="Phrazer\MasterPage.cs" Line="88" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
